@@ -1,4 +1,4 @@
-# Welcome to your AI Trip Planner project
+# Welcome to AI Trip Planner project
 
 Follow these steps:
 
