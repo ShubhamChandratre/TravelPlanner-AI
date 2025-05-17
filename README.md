@@ -40,3 +40,5 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 - Gemini API
+
+## Docker Image - [Travel Planner - AI](https://hub.docker.com/r/shubhamchandratre/travelplanner-ai)
