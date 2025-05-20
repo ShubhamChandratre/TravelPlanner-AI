@@ -1,4 +1,5 @@
 # Welcome to AI Trip Planner project
+An efficient AI tool to help you plan your trip by generating the complete overview including flight recommendations, sightseeing, food, stay, etc. A complete interractive chatbot helps you to gain more insights on a certain detail of the trip plan.
 
 Follow these steps:
 
