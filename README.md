@@ -42,4 +42,5 @@ This project is built with .
 - Tailwind CSS
 - Gemini API
 
+# Also Checkout
 ## Docker Image - [Travel Planner - AI](https://hub.docker.com/r/shubhamchandratre/travelplanner-ai)
